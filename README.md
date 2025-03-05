@@ -25,9 +25,11 @@ html 코드 작성
 > 인용구문 작성
 
 ### 뱃지(Badge)
-[표시내용](url)
-[simple icons](https://simpleicons.org/)
-[shields.io](https://shields.io/)
-![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)
-<img alt="Static Badge" src="https://img.shields.io/badge/:build-passing-brightgreen">
+[표시내용](url)  
+[simple icons](https://simpleicons.org/)  
+[shields.io](https://shields.io/)  
+![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)  
+<img src="https://img.shields.io/badge/choijihee-F361DC?style=flat-square&logo=apple&logoColor=000000"/>  
 
+![표시문자](url)
+![git](https://git-scm.com/images/logo@2x.png)
